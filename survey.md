@@ -13,28 +13,28 @@ Welcome to the pre-con session on Git Your Database Under Control! Please fill o
    - [ ] I've heard of it but never used it
    - [ ] Basic understanding of VCS concepts
    - [ ] Comfortable using VCS
-   - [ ] I use VCS regularly
+   - [x] I use VCS regularly
 
 2. **Which Version Control Systems are you familiar with? (Please check all that apply)**
-   - [ ] Git
+   - [x] Git
    - [ ] Subversion (SVN)
    - [ ] Mercurial
    - [ ] Team Foundation Version Control (TFVC)
    - [ ] Other: 
 
 3. **Have you ever used GitHub or any other remote repository hosting service?**
-   - [ ] Yes
+   - [x] Yes
    - [ ] No
 
 ## Expectations from the Session
 **What are you hoping to learn today?** (Please write a brief description)
 
-- 
+- Automating db deploys
 
 ## Experience with Collaboration
 1. **Have you contributed to any open-source projects?**
    - [ ] Yes
-   - [ ] No
+   - [x] No
 
 2. **If yes, which ones and in what way?** (If you haven't, just write N/A)
 
